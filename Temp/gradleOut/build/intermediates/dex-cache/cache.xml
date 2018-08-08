@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tim\Documents\AR game\Temp\gradleOut\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\Tim\Documents\AR game\Temp\gradleOut\build\intermediates\pre-dexed\release\Vuforia_5ac4342c016ef8ec95776c68c808ddc20fac5fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tim\Documents\AR game\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="C:\Users\Tim\Documents\AR game\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_9d8617a8b730615f58cacde6981c684f8c6e9217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tim\Documents\AR game\Temp\gradleOut\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\Tim\Documents\AR game\Temp\gradleOut\build\intermediates\pre-dexed\release\VuforiaUnityPlayer_320ce7335099ff20045eff884413f04b9edfe5fe.jar" />
+    </item>
+
+</items>
